@@ -27,4 +27,4 @@
                                           
                                           
                                                 Guru Nanak Dev Engneering Collage
-                                           Department of Electroics and Communication
+                                            Department of Electroics and Communication
