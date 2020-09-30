@@ -1,37 +1,7 @@
 #                                                       Practical File
                                                 Programming for Problem solving
-                                                          [ESC-105]
-                                                          
-                                                          
-                                                          
-                                                          
-                                                          
-                                                          
-                                                          
-                                                          
-                                                          
-                                                          
-                                                          
-                                                          
-                                                          
-                                                          
-                                                          
-                                                          
-                                                          
-                Submitted to:                                                                          Submitted by:              
-                Ranjodh Kaur                                                                           Manjinder Singh
-                                                                                                       1905232
-                                           
-                                          
-                                          
-                                          
-                                          
-                                                Guru Nanak Dev Engneering Collage
-                                            Department of Electroics and Communication
-___
 #   Table of Content
    | S no. |List of Practicals | 
-   |-------|-----|
    |1| Write a Programe to display a face using puts.| 
    |2| Write a Programe to display a face 10 times using "for" loop. |
    |3| Write a Programe to display the numbers between a range 1-100. |
